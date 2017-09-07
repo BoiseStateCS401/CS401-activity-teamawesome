@@ -1,4 +1,5 @@
 # My First Website
+https://boisestatecs401.github.io/CS401-activity-teamawesome/
 
 ## Learning Objectives
 
