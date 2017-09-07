@@ -1,0 +1,66 @@
+
+
+body
+{
+	background-color: rgb(240,240,240);
+	front-family: arial;
+}
+
+h1
+{
+	font-size: 26px;
+	text-align: center;
+}
+
+p, ul
+{
+	color: rgb(0,155,0);
+}
+
+i
+{
+	color: rgb(200,15,15);
+}
+
+ul
+{
+	list-style-type: upper-roman;
+	margin: 25px 10px 75px 0;
+}
+
+ul>li>ul
+{
+	list-style-type: circle;
+	color: rgb(0,0,0);
+}
+
+a
+{
+	color: rgb(0,0,255);
+	text-decoration: none;
+}
+
+img
+{
+	border-radius: 25px;
+}
+
+img:hover
+{
+	opacity: 0.5;
+}
+
+pre
+{
+	background-color: rbg(255,20,20);
+	border-style: dashed;
+}
+
+
+
+
+
+
+
+
+
