@@ -1,9 +1,7 @@
-
-
 body
 {
 	background-color: rgb(240,240,240);
-	front-family: arial;
+	font-family: "Times New Roman";
 }
 
 h1
@@ -52,15 +50,20 @@ img:hover
 
 pre
 {
-	background-color: rbg(255,20,20);
+	background-color: #FFB0F5;
 	border-style: dashed;
+	padding: 10px;
+	margin: 10px;
 }
 
+table
+{
+	border: 4px solid black;
+	padding: 5px;
+}
 
-
-
-
-
-
-
-
+td
+{
+	border: 1px solid black;
+	padding: 2px;
+}
