@@ -24,6 +24,7 @@ ul
 {
 	list-style-type: upper-roman;
 	margin: 25px 10px 75px 0;
+	font-style: italic;
 }
 
 ul>li>ul
@@ -36,6 +37,16 @@ a
 {
 	color: rgb(0,0,255);
 	text-decoration: none;
+}
+
+#img1
+{
+	margin-left:15%;
+}
+
+#img2
+{
+	margin-left:15%;
 }
 
 img
@@ -67,3 +78,27 @@ td
 	border: 1px solid black;
 	padding: 2px;
 }
+
+header
+{
+	background-color: #66CCFF;
+	border-top: solid;
+	border-bottom: solid;
+}
+
+.subTitle
+{
+	color: #FF4400;
+	text-align: center;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
