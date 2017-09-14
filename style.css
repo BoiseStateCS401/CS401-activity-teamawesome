@@ -23,7 +23,7 @@ i
 ul
 {
 	list-style-type: upper-roman;
-	margin: 25px 10px 75px 0;
+	margin: 5px 15px 15px 2px;
 	font-style: italic;
 }
 
@@ -70,6 +70,7 @@ pre
 table
 {
 	border: 4px solid black;
+	margin-left: 40%;
 	padding: 5px;
 }
 
@@ -81,17 +82,69 @@ td
 
 header
 {
-	background-color: #66CCFF;
+	background-color: #00DD40;
 	border-top: solid;
 	border-bottom: solid;
 }
 
 .subTitle
 {
-	color: #FF4400;
+	color: #FF0000;
 	text-align: center;
 	font-weight: bold;
 }
+
+#CodeInfo
+{
+	border-style: solid;
+	border-width: 1px;
+	padding: 0px 5px 0px 5px;
+}
+
+#FavAnimals
+{
+	background-color: #66CCFF;
+	padding: 0px 5px 10px 5px;
+	margin: 20px
+}
+
+#Answers
+{
+	border-style: dashed;
+	margin: 1px;
+	padding: 1px 5px 0px 1px;
+}
+
+aside
+{
+	text-align: right;
+}
+
+#FavTable
+{
+	background-color: #C0FFC0;
+	padding: 1px 0px 5px 0px;
+	border-radius: 50px;
+}
+
+#logo
+{
+    float: right;
+	width: 10%;
+	height: 10%;
+}
+
+nav
+{
+	border-style: solid;
+	background-color: #FFFF00;
+	padding: 2px;
+}
+
+
+
+
+
 
 
 
